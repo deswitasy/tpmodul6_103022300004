@@ -1,0 +1,15 @@
+D:\! SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul6_103022300004\tpmodul6_103022300004\bin\Debug\net8.0\tpmodul6_103022300004.exe
+D:\! SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul6_103022300004\tpmodul6_103022300004\bin\Debug\net8.0\tpmodul6_103022300004.deps.json
+D:\! SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul6_103022300004\tpmodul6_103022300004\bin\Debug\net8.0\tpmodul6_103022300004.runtimeconfig.json
+D:\! SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul6_103022300004\tpmodul6_103022300004\bin\Debug\net8.0\tpmodul6_103022300004.dll
+D:\! SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul6_103022300004\tpmodul6_103022300004\bin\Debug\net8.0\tpmodul6_103022300004.pdb
+D:\! SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul6_103022300004\tpmodul6_103022300004\obj\Debug\net8.0\tpmodul6_103022300004.GeneratedMSBuildEditorConfig.editorconfig
+D:\! SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul6_103022300004\tpmodul6_103022300004\obj\Debug\net8.0\tpmodul6_103022300004.AssemblyInfoInputs.cache
+D:\! SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul6_103022300004\tpmodul6_103022300004\obj\Debug\net8.0\tpmodul6_103022300004.AssemblyInfo.cs
+D:\! SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul6_103022300004\tpmodul6_103022300004\obj\Debug\net8.0\tpmodul6_103022300004.csproj.CoreCompileInputs.cache
+D:\! SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul6_103022300004\tpmodul6_103022300004\obj\Debug\net8.0\tpmodul6_103022300004.sourcelink.json
+D:\! SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul6_103022300004\tpmodul6_103022300004\obj\Debug\net8.0\tpmodul6_103022300004.dll
+D:\! SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul6_103022300004\tpmodul6_103022300004\obj\Debug\net8.0\refint\tpmodul6_103022300004.dll
+D:\! SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul6_103022300004\tpmodul6_103022300004\obj\Debug\net8.0\tpmodul6_103022300004.pdb
+D:\! SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul6_103022300004\tpmodul6_103022300004\obj\Debug\net8.0\tpmodul6_103022300004.genruntimeconfig.cache
+D:\! SEMESTER 4\Kontruksi Perangkat Lunak\tpmodul6_103022300004\tpmodul6_103022300004\obj\Debug\net8.0\ref\tpmodul6_103022300004.dll
